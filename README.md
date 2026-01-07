@@ -1,5 +1,12 @@
 # 🧠 OpenMind OM1 Node – VPS Installation Guide
 
+# 🧠 OpenMind OM1 Node – VPS Installation Guide
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420)
+![VPS](https://img.shields.io/badge/VPS-Compatible-green)
+![OpenMind](https://img.shields.io/badge/OpenMind-OM1-blue)
+
+
 ## 📑 Table of Contents
 - Requirements
 - Create OpenMind Account & API Key
@@ -37,7 +44,7 @@ Run an **OpenMind OM1 node** on **any VPS** (Hetzner, OVH, DigitalOcean, Vultr, 
 ## 🧩 Step 1 – Create OpenMind Account & API Key
 
 ![OpenMind Portal Dashboard](screenshots/step-1-openmind-dashboard.png)
-![Create API Key](screenshots/step-1-create-api-key.png)
+
 
 
 1. Go to 👉 [https://portal.openmind.org](https://portal.openmind.org)
