@@ -1,7 +1,5 @@
 # 🧠 OpenMind OM1 Node – VPS Installation Guide
 
-# 🧠 OpenMind OM1 Node – VPS Installation Guide
-
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-22.04-E95420)
 ![VPS](https://img.shields.io/badge/VPS-Compatible-green)
 ![OpenMind](https://img.shields.io/badge/OpenMind-OM1-blue)
